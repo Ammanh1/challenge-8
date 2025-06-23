@@ -1,0 +1,67 @@
+    body {
+      font-family: 'Patrick Hand', cursive;
+      margin: 0;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    .header {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      background: transparent;
+      z-index: 10;
+    }
+
+    .Logo {
+      font-size: 24px;
+      font-weight: bold;
+    }
+
+    .hero {
+      background-color: #444;
+      color: white;
+      padding: 8rem 1rem 5rem;
+      text-align: center;
+      position: relative;
+    }
+
+    .camera-icon {
+      font-size: 3rem;
+      color: white;
+    }
+
+    .icon-circle {
+      background: #eee;
+      border-radius: 50%;
+      padding: 15px;
+      margin-bottom: 10px;
+      display: inline-block;
+      font-size: 1.5rem;
+    }
+
+    .product-box {
+      background-color: #6c757d;
+      color: white;
+      text-align: center;
+      padding: 4rem 1rem;
+      border-radius: 0.25rem;
+    }
+
+    .testimonial-box {
+      border: 1px solid #ccc;
+      padding: 1rem;
+      border-radius: 0.5rem;
+      background-color: #f9f9f9;
+      height: 100%;
+    }
+
+    footer {
+      background: #222;
+      color: white;
+      padding: 2rem 0;
+    }
