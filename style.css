@@ -1,0 +1,27 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.hero {
+  background: #333;
+  color: #fff;
+  padding: 5rem 1rem;
+  text-align: center;
+}
+
+.services img, .products img, .testimonials img {
+  max-width: 100%;
+  border-radius: 15px;
+}
+
+footer {
+  background: #222;
+  color: #ccc;
+  padding: 2rem 0;
+}
+
+.footer-bottom {
+  text-align: center;
+  margin-top: 1rem;
+  font-size: 0.85rem;
+}
